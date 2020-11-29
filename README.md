@@ -1,4 +1,6 @@
-### Hi there 👋
+### hey i'm paige!
+
+i use my github to host my projects and sometimes to work with others
 
 <!--
 **presssssure/presssssure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
