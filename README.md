@@ -1,4 +1,4 @@
-### hey i'm paige!
+### hi i'm paige!
 
 i use my github to host my projects and sometimes to work with others
 
